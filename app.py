@@ -83,4 +83,4 @@ if st.button("Predict Rainfall"):
     st.success(f"Predicted Rainfall: {prediction:.2f} mm")
 
 st.write("---")
-st.caption("DAIVASHREE BHOSEKAR | Synthetic India Climate Data | Linear Regression")
+st.caption("Synthetic India Climate Data | Linear Regression")
